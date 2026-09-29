@@ -1,5 +1,4 @@
 <?php
-echo "<h2>Lesson 4</h2>";
 //Price Breakdown Function 
 echo "<h3>1: Price Breakdown Function</h3>";
 function calcPrice($price) {
